@@ -1,0 +1,377 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/17.1
+Ealu
+Z0 w1524695434
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Peter/Desktop/computer
+Z5 8C:\Users\Peter\Desktop\computer\CPU\PATH\ALU\alu.vhd
+Z6 FC:\Users\Peter\Desktop\computer\CPU\PATH\ALU\alu.vhd
+l0
+L5
+VhdP@=eg:de<SR[lgmM2Td3
+!s100 ;8=G;^ZzNIW0R;mRF4YH13
+Z7 OV;C;10.5c;63
+32
+Z8 !s110 1524695447
+!i10b 1
+Z9 !s108 1524695447.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Peter\Desktop\computer\CPU\PATH\ALU\alu.vhd|
+Z11 !s107 C:\Users\Peter\Desktop\computer\CPU\PATH\ALU\alu.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Aalu_arch
+R1
+R2
+R3
+Z14 DEx4 work 3 alu 0 22 hdP@=eg:de<SR[lgmM2Td3
+l18
+L14
+Z15 V7n]nD9aHENNlE90S7U0>[1
+Z16 !s100 0TjNG]0?cVg4^bXkg:`DU0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecomputer
+Z17 w1524609837
+R1
+R2
+R3
+R4
+Z18 8C:/Users/Peter/Desktop/computer/computer.vhd
+Z19 FC:/Users/Peter/Desktop/computer/computer.vhd
+l0
+L5
+V3Y5ATgd4FOl2SnZ6l2FP_3
+!s100 VPbIl]]z7W5PJg@<dnA[O1
+R7
+32
+Z20 !s110 1524695446
+!i10b 1
+Z21 !s108 1524695446.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/computer.vhd|
+Z23 !s107 C:/Users/Peter/Desktop/computer/computer.vhd|
+!i113 1
+R12
+R13
+Acomputer_arch
+R1
+R2
+R3
+DEx4 work 8 computer 0 22 3Y5ATgd4FOl2SnZ6l2FP_3
+l103
+L43
+VEH:<Jm<[QeF?F[RkE^A8H1
+!s100 S4cb>PJ=]WNl[DWn?`DUX1
+R7
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R12
+R13
+Ecomputer_tb
+R17
+R2
+R3
+R4
+Z24 8C:/Users/Peter/Desktop/computer/computer_TB.vhd
+Z25 FC:/Users/Peter/Desktop/computer/computer_TB.vhd
+l0
+L18
+V=PHkE^UJznE2Gndheajic0
+!s100 5JWm2o>BLD@M3B8LP1A^k2
+R7
+32
+R20
+!i10b 1
+R21
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/computer_TB.vhd|
+Z27 !s107 C:/Users/Peter/Desktop/computer/computer_TB.vhd|
+!i113 1
+R12
+R13
+Acomputer_tb_arch
+R2
+R3
+DEx4 work 11 computer_tb 0 22 =PHkE^UJznE2Gndheajic0
+l101
+L21
+VZHJUK?LnOCGTEFS5k5Sm<0
+!s100 hY=E[83gZ;z4nVVdYjhAJ2
+R7
+32
+R20
+!i10b 1
+R21
+R26
+R27
+!i113 1
+R12
+R13
+Econtrol_unit
+Z28 w1524673842
+R1
+R2
+R3
+R4
+Z29 8C:/Users/Peter/Desktop/computer/control_unit.vhd
+Z30 FC:/Users/Peter/Desktop/computer/control_unit.vhd
+l0
+L5
+VIdnbgTW`:V0zeSkd:6dRn2
+!s100 Aam6nQ]?`]1XkCKm[k1VL0
+R7
+32
+R8
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/control_unit.vhd|
+Z32 !s107 C:/Users/Peter/Desktop/computer/control_unit.vhd|
+!i113 1
+R12
+R13
+Acontrol_unit_arch
+R1
+R2
+R3
+DEx4 work 12 control_unit 0 22 IdnbgTW`:V0zeSkd:6dRn2
+l88
+L25
+VQOY4aBEUCCB8j5ORS?8Ff3
+!s100 eJF6Rb@08k;19I4J:Ln@g0
+R7
+32
+R8
+!i10b 1
+R9
+R31
+R32
+!i113 1
+R12
+R13
+Ecpu
+R17
+R1
+R2
+R3
+R4
+Z33 8C:/Users/Peter/Desktop/computer/cpu.vhd
+Z34 FC:/Users/Peter/Desktop/computer/cpu.vhd
+l0
+L5
+V@PXCVK0eld=c3D26@5n`D1
+!s100 :Al[`<H^8?_<`4]G6Se7^1
+R7
+32
+R8
+!i10b 1
+R21
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/cpu.vhd|
+Z36 !s107 C:/Users/Peter/Desktop/computer/cpu.vhd|
+!i113 1
+R12
+R13
+Acpu_arch
+R1
+R2
+R3
+DEx4 work 3 cpu 0 22 @PXCVK0eld=c3D26@5n`D1
+l70
+L16
+VaRNHX`[>FGnO2T6zXn9MN0
+!s100 1^j8a4gh7SgX5[S4P2Rfh2
+R7
+32
+R8
+!i10b 1
+R21
+R35
+R36
+!i113 1
+R12
+R13
+Edata_path
+Z37 w1524627457
+R1
+R2
+R3
+R4
+Z38 8C:/Users/Peter/Desktop/computer/data_path.vhd
+Z39 FC:/Users/Peter/Desktop/computer/data_path.vhd
+l0
+L5
+V`F<Dd2672fk5^Jmk4]8hA0
+!s100 lCWjBAQ4TZ4J]_Sf7jIg40
+R7
+32
+R8
+!i10b 1
+R9
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/data_path.vhd|
+Z41 !s107 C:/Users/Peter/Desktop/computer/data_path.vhd|
+!i113 1
+R12
+R13
+Adata_path_arch
+R1
+R2
+R3
+DEx4 work 9 data_path 0 22 `F<Dd2672fk5^Jmk4]8hA0
+l50
+L26
+Vb0WMzhiaYRNV[BBk^_6JJ0
+!s100 iCQmgeEI3z^fK1`Z@JGKe2
+R7
+32
+R8
+!i10b 1
+R9
+R40
+R41
+!i113 1
+R12
+R13
+Ememory
+Z42 w1524609838
+R1
+R2
+R3
+R4
+Z43 8C:/Users/Peter/Desktop/computer/memory/memory.vhd
+Z44 FC:/Users/Peter/Desktop/computer/memory/memory.vhd
+l0
+L5
+V5CCCnSQ3BhV7NkIJj1iNB0
+!s100 Mz=Q^aB_=mQdAd_IP]_a50
+R7
+32
+R20
+!i10b 1
+R21
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/memory/memory.vhd|
+Z46 !s107 C:/Users/Peter/Desktop/computer/memory/memory.vhd|
+!i113 1
+R12
+R13
+Amemory_arch
+R1
+R2
+R3
+DEx4 work 6 memory 0 22 5CCCnSQ3BhV7NkIJj1iNB0
+l69
+L48
+VKX7_b_CPZ2IJ3iWkF@<;:2
+!s100 >leA@`9kWYcmW;MHCF^1L1
+R7
+32
+R20
+!i10b 1
+R21
+R45
+R46
+!i113 1
+R12
+R13
+Erom_128x8_sync
+R42
+R1
+R2
+R3
+R4
+Z47 8C:/Users/Peter/Desktop/computer/memory/SUBmemory/rom_128x8_sync.vhd
+Z48 FC:/Users/Peter/Desktop/computer/memory/SUBmemory/rom_128x8_sync.vhd
+l0
+L5
+VKczOXd1]ASFHOazQBNcni0
+!s100 AhMQ2SXkPg<IRdVdnUPng3
+R7
+32
+R20
+!i10b 1
+R21
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/memory/SUBmemory/rom_128x8_sync.vhd|
+Z50 !s107 C:/Users/Peter/Desktop/computer/memory/SUBmemory/rom_128x8_sync.vhd|
+!i113 1
+R12
+R13
+Arom_128x8_sync_arch
+R1
+R2
+R3
+DEx4 work 14 rom_128x8_sync 0 22 KczOXd1]ASFHOazQBNcni0
+l62
+L12
+V8z_[CZaab3]eMd<b^CZBM1
+!s100 P<:zInfXNQEcPP^aBJ1U:0
+R7
+32
+R20
+!i10b 1
+R21
+R49
+R50
+!i113 1
+R12
+R13
+Erw_96x8_sync
+R42
+R1
+R2
+R3
+R4
+Z51 8C:/Users/Peter/Desktop/computer/memory/SUBmemory/rw_96x8_sync.vhd
+Z52 FC:/Users/Peter/Desktop/computer/memory/SUBmemory/rw_96x8_sync.vhd
+l0
+L5
+VmV0_K`aD8?a?IZk:?:7053
+!s100 AbWZZ1EVkYTRKIDS`F?R=2
+R7
+32
+R20
+!i10b 1
+R21
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Peter/Desktop/computer/memory/SUBmemory/rw_96x8_sync.vhd|
+Z54 !s107 C:/Users/Peter/Desktop/computer/memory/SUBmemory/rw_96x8_sync.vhd|
+!i113 1
+R12
+R13
+Arw_96x8_sync_arch
+R1
+R2
+R3
+DEx4 work 12 rw_96x8_sync 0 22 mV0_K`aD8?a?IZk:?:7053
+l23
+L14
+VLf0ZVLVT7EJA<1K>X:6H91
+!s100 W0L>kWBeWm=QgMZ@cAO@I3
+R7
+32
+R20
+!i10b 1
+R21
+R53
+R54
+!i113 1
+R12
+R13
